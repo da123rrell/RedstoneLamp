@@ -1,0 +1,17 @@
+;Language implementation for Bahasa Indonesia, Indonesia
+
+[Translations]
+
+redstonelamp.translation.player.joined=%param-0 masuk ke dalam permainan.
+
+redstonelamp.translation.player.left=%param-0 meninggalkan permainan.
+
+
+redstonelamp.translation.command.usage=Usage: %param-0
+
+
+redstonelamp.translation.command.help.header=-- Perintah Help (Halaman %param-0/%param-1) --
+
+redstonelamp.translation.command.help.listEntry=/%param-0 - %param-1
+
+redstonelamp.translation.command.help.invalidPage=Halaman %param-0 tidak ada!
